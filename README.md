@@ -36,10 +36,10 @@ This project seeks to classify reported events in VAERS as mild/moderate or seri
 3. Running the above programs should produce the file "19-21VAERSCOMB_clean.csv" in the "dev" folder directory. A "19-21VAERSCOMB_clean.zip" file containing the same .csv file is also included in the "dev" folder directory in this repository, if you want to skip to replicating the data analysis.
 
 4. To replicate data analysis, navigate to the "code" folder directory and run the following Julia programs, each one corresponding to one of the 4 aims above:
-    - For Aim 1: 4_analysis_aim1_ben.jl
-    - For Aim 2: 4_analysis_aim2_emcmill2.jl
-    - For Aim 3: 4_analysis_aim3_ytao.jl
-    - For Aim 4: 4_analysis_aim4_ahuang.jl
+    - **For Aim 1:** 4_analysis_aim1_ben.jl
+    - **For Aim 2:** 4_analysis_aim2_emcmill2.jl
+    - **For Aim 3:** 4_analysis_aim3_ytao.jl
+    - **For Aim 4:** 4_analysis_aim4_ahuang.jl
 
 ### Acknowledgements
 8_v-team Contributing Members:
